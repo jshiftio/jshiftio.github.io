@@ -1,0 +1,8 @@
+# Jshift
+
+Jshift is a collection of plugins and libraries that are used for generating and deploying Kubernetes/Openshift manifests at compile
+time. It brings your Java applications on to Kubernetes and OpenShift. It provides a tight integration into Maven and benefits from 
+the build configuration already provided. This project focus on two tasks: Building Docker images and creating Kubernetes and 
+OpenShift resource descriptors.
+
+
