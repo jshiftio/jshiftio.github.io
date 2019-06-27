@@ -31,6 +31,15 @@ OpenShift resource descriptors.
    - Includes java library for using using [odo](https://github.com/redhat-developer/odo)
    - Includes **Odo Maven Plugin** which allows seamless integration of odo cli with Maven.
 
+## Getting Started
+ - Check out our asciicasts for:
+   - [Kubernetes Maven Plugin](https://asciinema.org/a/253747)
+      ![Sample Demo](https://raw.githubusercontent.com/jshiftio/kubernetes-maven-plugin/master/k8s-maven-plugin-demo.gif)
+   - [Openshift Maven Plugin](https://asciinema.org/a/253742)
+      ![Sample Demo](https://raw.githubusercontent.com/jshiftio/openshift-maven-plugin/master/oc-maven-plugin-demo.gif)
+
+ - Visit our [quickstarts samples](https://github.com/jshiftio/jshift-quickstarts) on github.
+
 ## Getting Involved
   - Follow us on [Twitter](https://twitter.com/jshiftio)
   - Contribute via bug fixes or issues on [Github](https://github.com/jshiftio)
